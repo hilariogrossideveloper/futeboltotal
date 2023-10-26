@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@500&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Playpen Sans', cursive;
+
+}
+
+.total {
+    width: 100%;
+    min-height: 100vh;
+    padding: 0.625rem 5%;
+    background-color: #c9d6ff;
+    background: linear-gradient(to right, #747070, #eee);
+
+}
+
+#cabecalho {
+    display: flex;
+    align-items: center;
+    
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: rgb(235, 10, 10);
+
+}
+
+.span_1 {
+    font-size: 1.5rem;
+    padding-left: 2rem;
+    justify-content: space-between;
+
+}
+
+#image_1 {
+    width: 10rem;
+    height: 5rem;
+
+}
+
+#lupa {
+    width: 1.5rem;
+    height: 1.5rem;
+
+}
+
+#engrenagem {
+    width: 3.5rem;
+    height: 3.5rem;
+
+}
+
+#pipeline {
+    width: 1.5rem;
+    height: 1.5rem;
+
+}
+
+#cadastrese {
+    width: 8rem;
+    height: 5rem;
+
+}
+
+#entrar {
+    padding: 0;
+    width: 8rem;
+    height: 5rem;
+
+}
+
+.btn {
+    padding: 0.75rem;
+    border: 1px solid black;
+    border-radius: 1.5rem;
+    background-color: linear-gradient(to right, #747070, #eee);;
+
+}
+
+.cadastro {
+    background-color: black;
+
+}
+
+.entrar {
+    background-color: black;
+
+}
+
+#noticias {
+    padding-bottom: 5rem;
+
+}
+
+.iframe_1 {
+    width: 100%;
+    min-height: 50vh;
+
+}
+
+#noticia_1 {
+    padding-top: 1rem;
+    text-align: center;
+    display: inline-block;
+    width: 75%;
+
+}
+
+#noticia_2 {
+    padding-top: 1rem;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.iframe_2 {
+    width: 100%;
+    min-height: 50vh;
+
+}
+
+
+#noticia_3 {
+    padding-top: 0.5rem;
+    text-align: center;
+    display: inline-block;
+    width: 75%;
+
+}
+
+#noticia_4 {
+    padding-top: 0.5rem;
+    text-align: center;
+    display: inline-block;
+
+}
